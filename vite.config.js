@@ -11,4 +11,5 @@ export default defineConfig({
   oxc: {
     include: /src\/.*\.(js|jsx|ts|tsx)$/,
   },
+  base: "/Bakery_website/",
 });
